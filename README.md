@@ -9,3 +9,6 @@ I am a **software engineer**, currently studying at **SMPN 2 SUKARATU**, I am an
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,visualstudio,discord,github,git)](https://skillicons.dev)
+
+## Contacts me
+[![My Skills](https://skillicons.dev/icons?i=gmail,instagram)](https://skillicons.dev)
