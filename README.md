@@ -8,4 +8,4 @@ I am a **software engineer**, currently studying at **SMPN 2 SUKARATU**, I am an
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,laravel,php)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=acode,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,visualstudio,discord,github,git)](https://skillicons.dev)
