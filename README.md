@@ -1,6 +1,5 @@
 ## About me
 
-.
 
-👋 Hi, I'm Ade!
-I am a passionate Student and Aspiring Software Engineer currently studying at SMPN 2 Sukaratu. I love building digital experiences that are not only functional but also visually striking.
+
+I am a **software engineer**, currently studying at **SMPN 2 SUKARATU**, I am an expert in **website development**, using **acode as the main tool** for creating websites, transforming your ideas into an aesthetic and modern digital form.
